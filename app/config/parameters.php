@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '8889',
+    'database_name' => 'horticulture_duffaut',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'IiQsccYWyBYknqH4sYhSVBqeD0FFUkcsULAUqFWGXZpjWH2jmv01aUEu',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-03-31',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'w3bTO4hpBRRJVDTjtt72gPDsKwMTzD6InpxLWeiVItwIhZVX2pEC6xB4',
+    'cookie_iv' => 'X388szAM',
+    'new_cookie_key' => 'def0000022e0fe31d3d3645b45d609919bd01d7d677ef86f0ede7cef9d2af556143203e5b6f5f024d3df973902bd42fe9623e36c8bc2a7ead44eb64f15c02b9dabc28826',
+  ),
+);
